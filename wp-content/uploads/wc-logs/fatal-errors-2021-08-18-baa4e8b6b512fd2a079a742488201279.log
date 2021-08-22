@@ -1,0 +1,9 @@
+2021-08-18T09:01:05+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, no array or string given in C:\XAMPP\htdocs\minhphuongninesbeaury.vn\wp-content\themes\rehub-theme\inc\product_layout\full_width_extended.php:126
+Stack trace:
+#0 C:\XAMPP\htdocs\minhphuongninesbeaury.vn\wp-content\themes\rehub-theme\woocommerce\single-product.php(60): include()
+#1 C:\XAMPP\htdocs\minhphuongninesbeaury.vn\wp-includes\template-loader.php(106): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\minhphuongninesbeaury.vn\wp-blog-header.php(19): require_once('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\minhphuongninesbeaury.vn\index.php(17): require('C:\\XAMPP\\htdocs...')
+#4 {main}
+  thrown in C:\XAMPP\htdocs\minhphuongninesbeaury.vn\wp-content\themes\rehub-theme\inc\product_layout\full_width_extended.php on line 126
+
